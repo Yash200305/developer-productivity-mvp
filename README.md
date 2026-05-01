@@ -47,4 +47,4 @@ npm run dev
 
 ### 🎥 Deliverables
 Video Walkthrough: https://drive.google.com/file/d/13w8QSfbo2kR-xUgi46BLhPEaLjWl5DEf/view?usp=sharing
-Miro User Journey: https://miro.com/app/board/uXjVHZ_84n8=/?share_link_id=717519092024
+*Miro User Journey: https://miro.com/app/board/uXjVHZ_84n8=/?share_link_id=717519092024

@@ -1,0 +1,15 @@
+{
+  "profile": {
+    "id": "DEV-001",
+    "name": "Ava Chen",
+    "role": "SDE2",
+    "team": "Payments API"
+  },
+  "metrics": {
+    "cycleTimeDays": 3.9,
+    "prThroughput": 4,
+    "leadTimeDays": 2.9,
+    "deploymentFrequency": 4,
+    "bugRatePercentage": 0.0
+  }
+}
